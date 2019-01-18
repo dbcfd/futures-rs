@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUST_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-test/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-test/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-test/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-sink/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-sink/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-sink/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-sink/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-io/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-io/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-io/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-io/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-util/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-util/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-util/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-util/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-channel/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-channel/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-channel/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-channel/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-core/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-core/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-core/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-core/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-executor/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-executor/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-executor/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-executor/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-select-macro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-select-macro/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-select-macro/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-select-macro/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/futures-channel/target" />
+      <excludeFolder url="file://$MODULE_DIR$/futures-core/target" />
+      <excludeFolder url="file://$MODULE_DIR$/futures-executor/target" />
+      <excludeFolder url="file://$MODULE_DIR$/futures-io/target" />
+      <excludeFolder url="file://$MODULE_DIR$/futures-select-macro/target" />
+      <excludeFolder url="file://$MODULE_DIR$/futures-sink/target" />
+      <excludeFolder url="file://$MODULE_DIR$/futures-test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/futures-util/target" />
+      <excludeFolder url="file://$MODULE_DIR$/futures/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
